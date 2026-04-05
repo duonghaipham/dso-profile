@@ -18,7 +18,7 @@ Here are some of the projects I've worked on. Each represents a learning milesto
 - Markdown-driven content, zero database
 - Automated deployment via GitHub Pages
 
-[View on GitHub](https://github.com/duongph11/dso-profile)
+[View on GitHub](https://github.com/duonghaipham/dso-profile)
 
 ---
 

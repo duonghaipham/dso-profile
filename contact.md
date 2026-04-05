@@ -10,7 +10,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ### Where to Find Me
 
-- **GitHub:** [github.com/duongph11](https://github.com/duongph11)
+- **GitHub:** [github.com/duonghaipham](https://github.com/duonghaipham)
 - **Email:** *(available on request)*
 
 ### What I'm Open To

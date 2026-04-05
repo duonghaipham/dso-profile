@@ -7,9 +7,7 @@ author:
   name: "Duong Hai Pham"
   github: "duonghaipham"
 
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 highlighter: rouge
@@ -19,12 +17,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-header_pages:
-  - about.md
-  - projects.md
-  - skills.md
-  - blog/index.md
-  - contact.md
 
 exclude:
   - Gemfile

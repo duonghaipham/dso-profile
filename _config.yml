@@ -1,0 +1,33 @@
+title: "Duong PH | DSO Profile"
+description: "Personal portfolio and blog for Duong PH."
+url: "https://duongph11.github.io"
+baseurl: "/dso-profile"
+
+author:
+  name: "Duong PH"
+  github: "duongph11"
+
+theme: minima
+minima:
+  skin: dark
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - projects.md
+  - skills.md
+  - blog/index.md
+  - contact.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
